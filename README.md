@@ -2,6 +2,10 @@
 
 This repository stores portable HTML mockups for the Hitpick design direction.
 
+## Start Here
+
+- Read `PROJECT_CONTEXT.md` first if you are continuing this work in a new chat or on another machine.
+
 ## Included mockups
 
 - `mockups/home-v2-existing-tone.html`
